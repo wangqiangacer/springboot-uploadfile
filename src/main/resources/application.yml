@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: springboot-upload
+  security:
+    user:
+      name: admin
+      password: admin
